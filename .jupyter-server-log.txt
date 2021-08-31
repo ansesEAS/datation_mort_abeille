@@ -123,3 +123,19 @@ TermSocket.open: Opened 1
 [I 09:31:35.879 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 09:32:52.179 NotebookApp] Saving file at /Predictions_mort_abeilles.ipynb
+[W 09:41:51.856 NotebookApp] Culling 'idle' kernel 'python3' (0e497a60-0835-4479-b43b-ce0927674173) with 1 connections due to 629 seconds of inactivity.
+[I 09:41:51.857 NotebookApp] Kernel shutdown: 0e497a60-0835-4479-b43b-ce0927674173
+[W 09:41:52.645 NotebookApp] 410 DELETE /user/anseseas-datation_mort_abeille-xlbfp53y/api/sessions/5a7c89c0-4285-4096-8711-3e290ec9a961 (37.168.75.92): Kernel deleted before session
+[W 09:41:52.645 NotebookApp] Kernel deleted before session
+[W 09:41:52.646 NotebookApp] 410 DELETE /user/anseseas-datation_mort_abeille-xlbfp53y/api/sessions/5a7c89c0-4285-4096-8711-3e290ec9a961 (37.168.75.92) 2.930000ms referer=https://hub-binder.mybinder.ovh/user/anseseas-datation_mort_abeille-xlbfp53y/notebooks/Predictions_mort_abeilles.ipynb
+[W 09:46:07.278 NotebookApp] WebSocket ping timeout after 119913 ms.
+Websocket closed
+[W 09:49:57.442 NotebookApp] 404 DELETE /user/anseseas-datation_mort_abeille-xlbfp53y/api/sessions/5a7c89c0-4285-4096-8711-3e290ec9a961 (37.168.75.92): Session not found: session_id='5a7c89c0-4285-4096-8711-3e290ec9a961'
+[W 09:49:57.443 NotebookApp] Session not found: session_id='5a7c89c0-4285-4096-8711-3e290ec9a961'
+[W 09:49:57.444 NotebookApp] 404 DELETE /user/anseseas-datation_mort_abeille-xlbfp53y/api/sessions/5a7c89c0-4285-4096-8711-3e290ec9a961 (37.168.75.92) 2.880000ms referer=https://hub-binder.mybinder.ovh/user/anseseas-datation_mort_abeille-xlbfp53y/notebooks/Predictions_mort_abeilles.ipynb
+[I 09:49:57.597 NotebookApp] Kernel started: b8c7a59b-9877-45e3-8d89-bfc698a1f843, name: python3
+[I 09:50:36.461 NotebookApp] Saving file at /Predictions_mort_abeilles.ipynb
+[I 09:50:49.967 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
